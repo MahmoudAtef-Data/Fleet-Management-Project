@@ -26,6 +26,13 @@ End-to-End Methodology
 
         Designed an interactive Power BI dashboard to provide a high-level overview of fleet health, with deep-dive capabilities into individual vehicle metrics.
 
+      ### Dashboard Preview
+
+<img src="Freight%20Revenue.jpeg" width="800">
+
+<img src="Fleet%20Cost.jpeg" width="800">
+
+<img src="Vehicle%20Analysis.jpeg" width="800">
 Analysis: Strengths & Limitations
 
     Strengths:
